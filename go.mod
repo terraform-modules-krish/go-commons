@@ -1,4 +1,4 @@
-module github.com/gruntwork-io/go-commons
+module github.com/terraform-modules-krish/go-commons
 
 go 1.13
 
@@ -14,7 +14,7 @@ require (
 	github.com/fatih/color v1.9.0
 	github.com/go-errors/errors v1.0.2-0.20180813162953-d98b870cc4e0
 	github.com/go-sql-driver/mysql v1.5.0 // indirect
-	github.com/gruntwork-io/terratest v0.40.1
+	github.com/terraform-modules-krish/terratest v0.40.1
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.0
 	github.com/mattn/go-colorable v0.1.7 // indirect
