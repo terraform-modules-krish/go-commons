@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gruntwork-io/go-commons/files"
-	"github.com/gruntwork-io/go-commons/git"
-	"github.com/gruntwork-io/terratest/modules/environment"
+	"github.com/terraform-modules-krish/go-commons/files"
+	"github.com/terraform-modules-krish/go-commons/git"
+	"github.com/terraform-modules-krish/terratest/modules/environment"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
