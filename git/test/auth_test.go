@@ -8,12 +8,12 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gruntwork-io/go-commons/files"
-	"github.com/gruntwork-io/go-commons/git"
-	"github.com/gruntwork-io/go-commons/logging"
-	"github.com/gruntwork-io/terratest/modules/environment"
-	ttlogger "github.com/gruntwork-io/terratest/modules/logger"
-	"github.com/gruntwork-io/terratest/modules/shell"
+	"github.com/terraform-modules-krish/go-commons/files"
+	"github.com/terraform-modules-krish/go-commons/git"
+	"github.com/terraform-modules-krish/go-commons/logging"
+	"github.com/terraform-modules-krish/terratest/modules/environment"
+	ttlogger "github.com/terraform-modules-krish/terratest/modules/logger"
+	"github.com/terraform-modules-krish/terratest/modules/shell"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
