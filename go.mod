@@ -1,4 +1,4 @@
-module github.com/gruntwork-io/go-commons
+module github.com/terraform-modules-krish/go-commons
 
 go 1.13
 
@@ -6,7 +6,7 @@ require (
 	github.com/bgentry/speakeasy v0.1.0
 	github.com/fatih/color v1.9.0
 	github.com/go-errors/errors v1.0.2-0.20180813162953-d98b870cc4e0
-	github.com/gruntwork-io/terratest v0.32.9
+	github.com/terraform-modules-krish/terratest v0.32.9
 	github.com/hashicorp/go-multierror v1.1.0
 	github.com/mattn/go-zglob v0.0.2-0.20190814121620-e3c945676326
 	github.com/sirupsen/logrus v1.4.2
