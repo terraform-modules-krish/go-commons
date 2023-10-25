@@ -5,7 +5,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"testing"
 
-	"github.com/gruntwork-io/gruntwork-cli/logging"
+	gruntwork-cli "github.com/terraform-modules-krish/go-commons/logging"
 )
 
 func TestRunShellCommand(t *testing.T) {
