@@ -1,4 +1,4 @@
-module github.com/gruntwork-io/go-commons
+module github.com/terraform-modules-krish/go-commons
 
 go 1.13
 
@@ -16,7 +16,7 @@ require (
 	github.com/go-sql-driver/mysql v1.5.0 // indirect
 	github.com/go-test/deep v1.0.7 // indirect
 	github.com/google/go-cmp v0.5.5 // indirect
-	github.com/gruntwork-io/terratest v0.32.9
+	github.com/terraform-modules-krish/terratest v0.32.9
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.0
 	github.com/hashicorp/hcl/v2 v2.9.1 // indirect
