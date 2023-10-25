@@ -3,7 +3,7 @@ package git
 import (
 	"fmt"
 
-	"github.com/gruntwork-io/go-commons/shell"
+	"github.com/terraform-modules-krish/go-commons/shell"
 	"github.com/hashicorp/go-multierror"
 )
 

@@ -1,8 +1,8 @@
 package git
 
 import (
-	"github.com/gruntwork-io/go-commons/files"
-	"github.com/gruntwork-io/go-commons/shell"
+	"github.com/terraform-modules-krish/go-commons/files"
+	"github.com/terraform-modules-krish/go-commons/shell"
 )
 
 // Clone runs git clone to clone the specified repository into the given target directory.

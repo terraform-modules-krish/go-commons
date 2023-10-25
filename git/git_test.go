@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gruntwork-io/go-commons/files"
+	"github.com/terraform-modules-krish/go-commons/files"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

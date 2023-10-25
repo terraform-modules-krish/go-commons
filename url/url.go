@@ -2,7 +2,7 @@ package url
 
 import (
 	"fmt"
-	"github.com/gruntwork-io/go-commons/errors"
+	"github.com/terraform-modules-krish/go-commons/errors"
 	"net/url"
 	"strings"
 )
