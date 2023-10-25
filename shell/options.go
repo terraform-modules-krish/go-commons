@@ -2,7 +2,7 @@ package shell
 
 import (
 	"github.com/sirupsen/logrus"
-	"github.com/gruntwork-io/gruntwork-cli/logging"
+	gruntwork-cli "github.com/terraform-modules-krish/go-commons/logging"
 )
 
 type ShellOptions struct {
