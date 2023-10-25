@@ -4,9 +4,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gruntwork-io/terratest/modules/docker"
-	terragit "github.com/gruntwork-io/terratest/modules/git"
-	"github.com/gruntwork-io/terratest/modules/random"
+	"github.com/terraform-modules-krish/terratest/modules/docker"
+	terragit "github.com/terraform-modules-krish/terratest/modules/git"
+	"github.com/terraform-modules-krish/terratest/modules/random"
 )
 
 func TestIntegrationGitAuth(t *testing.T) {
