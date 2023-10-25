@@ -1,4 +1,4 @@
-module github.com/gruntwork-io/go-commons
+module github.com/terraform-modules-krish/go-commons
 
 go 1.13
 
