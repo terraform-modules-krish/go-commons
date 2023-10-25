@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"regexp"
 	"io/ioutil"
-	"github.com/gruntwork-io/go-commons/errors"
+	"github.com/terraform-modules-krish/go-commons/errors"
 	"github.com/mattn/go-zglob"
 )
 
