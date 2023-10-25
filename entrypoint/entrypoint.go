@@ -3,8 +3,8 @@ package entrypoint
 import (
 	"os"
 	"github.com/urfave/cli"
-	"github.com/gruntwork-io/gruntwork-cli/errors"
-	"github.com/gruntwork-io/gruntwork-cli/logging"
+	gruntwork-cli "github.com/terraform-modules-krish/go-commons/errors"
+	gruntwork-cli "github.com/terraform-modules-krish/go-commons/logging"
 )
 
 const defaultSuccessExitCode = 0
