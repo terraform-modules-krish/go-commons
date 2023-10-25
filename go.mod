@@ -1,4 +1,4 @@
-module github.com/gruntwork-io/gruntwork-cli
+module github.com/terraform-modules-krish/gruntwork-cli
 
 go 1.13
 
