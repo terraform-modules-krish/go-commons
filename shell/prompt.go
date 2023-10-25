@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"bufio"
 	"os"
-	"github.com/gruntwork-io/gruntwork-cli/errors"
+	gruntwork-cli "github.com/terraform-modules-krish/go-commons/errors"
 	"strings"
-	"github.com/gruntwork-io/gruntwork-cli/logging"
+	gruntwork-cli "github.com/terraform-modules-krish/go-commons/logging"
 	"github.com/fatih/color"
 )
 
