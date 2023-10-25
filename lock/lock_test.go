@@ -2,12 +2,12 @@ package lock
 
 import (
 	"fmt"
-	"github.com/gruntwork-io/terratest/modules/random"
+	"github.com/terraform-modules-krish/terratest/modules/random"
 	"github.com/stretchr/testify/require"
 	"testing"
 	"time"
 
-	"github.com/gruntwork-io/go-commons/logging"
+	"github.com/terraform-modules-krish/go-commons/logging"
 	"github.com/stretchr/testify/assert"
 )
 
