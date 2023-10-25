@@ -4,7 +4,7 @@ import (
 	"os/exec"
 	"os"
 	"strings"
-	"github.com/gruntwork-io/gruntwork-cli/errors"
+	gruntwork-cli "github.com/terraform-modules-krish/go-commons/errors"
 	"io"
 	"bufio"
 )
